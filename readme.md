@@ -34,6 +34,9 @@ using Oxide.Core;
 ExampleLibrary exampleLibrary = Interface.Oxide.GetLibrary<ExampleLibrary>();
 exampleLibrary.Foo; // returns "bar"
 ```
+# :warning:
+This is a work in progress but is useable.
+
 # Contributing
 If you want to contribute to this example/template, feel free to make a pull request or open an issue.
 
