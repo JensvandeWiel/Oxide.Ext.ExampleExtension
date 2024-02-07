@@ -237,7 +237,7 @@ out/
 .idea_modules/
 atlassian-ide-plugin.xml
 .idea/replstate.xml
-.idea/sonarlint
+.idea/**/sonarlint
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
